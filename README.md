@@ -1,6 +1,8 @@
 ## USAGE
 `python3 main.py --type="train" --pre2train="True/False"` to train
+
 `python3 main.py --type="predict"` to predict
+
 `python3 main.py --type"generate" --sentence="INPUT HERE"` to generate a summary from the given sentences(1 or more)
 
 ## FILE STRUCTURE
