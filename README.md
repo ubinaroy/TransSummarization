@@ -48,7 +48,7 @@
 You can modify the project in parser.py
 
 ## Pretrained mode
-You can use Hugging Face pretrained mode to process the target, but make sure there are enough GPU memory.
+You can use Hugging Face pretrained model to process the target, but make sure there are enough GPU memory.
 run `bash run_summarization_mT5.sh` to make it, and modify in `mT5/arg.py` to fine tune.
 
 ## REFERENCE
